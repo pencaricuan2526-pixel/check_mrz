@@ -1,0 +1,10 @@
+Kalkulator MRZ Paspor Indonesia - Quick Start
+
+1. Buka folder project.
+2. Jalankan:
+   python kalkulator_mrz_paspor_indonesia.py
+
+Untuk upload ke GitHub:
+1. Buat repository baru di GitHub.
+2. Extract file ZIP ini.
+3. Upload semua file/folder ke repository.

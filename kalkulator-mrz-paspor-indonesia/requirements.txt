@@ -1,0 +1,2 @@
+# Tidak ada dependensi eksternal.
+# Aplikasi menggunakan Tkinter bawaan Python.
